@@ -72,7 +72,7 @@ Here are some visual references for the project:
 
 ### Mobile Dashboard
 
-![Mobile Dashboard](img/mobile_dashboard.jpg)
+![Mobile Dashboard](img/app_dashboard.jpeg)
 *Mobile Dashboard for controlling the robotic arm via Blynk app.*
 
 ### Web Dashboard
@@ -82,7 +82,7 @@ Here are some visual references for the project:
 
 ### Physical Model
 
-![Working Model](img/working_model.jpg)
+![Working Model](img/Robo_Arm.jpeg)
 *Physical Prototype of the Robotic Arm.*
 
 
