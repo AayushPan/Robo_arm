@@ -77,7 +77,7 @@ Here are some visual references for the project:
 
 ### Web Dashboard
 
-![Web Dashboard](img/web.jpg)
+![Web Dashboard](img/web.png)
 *Web Dashboard interface (if used).*
 
 ### Physical Model
